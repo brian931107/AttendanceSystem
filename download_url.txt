@@ -1,1 +1,1 @@
-https://github.com/brian931107/AttendanceSystem/releases/download/v1.0.2/AttendanceSystem.zip
+https://github.com/brian931107/AttendanceSystem/releases/download/v1.1.1/AttendanceSystem.zip
